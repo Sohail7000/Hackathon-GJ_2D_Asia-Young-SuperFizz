@@ -1,0 +1,36 @@
+# Unity generated folders and files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+
+# Auto-generated VS/MonoDevelop files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Build and executable files
+SuperFizz - Snow Boarder.x86_64
+SuperFizz - Snow Boarder_BurstDebugInformation_DoNotShip
+SuperFizz WebGL/
+SuperFizz WebGL2/
+Superfizz- Snow Boarder_Data/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.dll
+*.exe
+*.so
